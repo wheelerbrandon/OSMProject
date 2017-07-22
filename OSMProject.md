@@ -6,7 +6,7 @@ Norfolk, VA, United States
 
 - [https://www.openstreetmap.org/relation/206672]()
 
-I spent my teenage years in neighboring suburb Chesapeake, VA, but I thought that Norfolk, being a city, would have a greater quantity of data to clean, as well as more interesting data to assess afterwards.
+I spent my teenage years in neighboring suburb Chesapeake, but I thought that Norfolk, being a city, would have a greater quantity of data to clean, as well as more interesting data to assess afterwards. Norfolk is a coastal city in Virginia, famouse for it's shipyards, ties to the navy, and home of Doumar's- a burger joint where the ice cream cone was supposedly invented!
 
 ## Problems Encountered in the Map
 Upon receiving the XML data and having difficulty opening it in Atom due to it's size(401 mb), I created a programmatically sliced sample of the data (taking every 10th top level element) to develop initial assessments.
