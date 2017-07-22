@@ -1,0 +1,9 @@
+- https://gist.github.com/carlward/54ec1c91b62a5f911c42, the provided sample project gave me guidelines on how to use markdown for the presentation document, as well as how the project should be structured\
+
+- https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/, provided info for how to actually upload stuff to GitHub! Which I haven\'92t done before\
+
+- Data Wrangling Case Study/Data Wrangling lessons were referred back to a great deal for reminders on how to interact with the OSM data, and how to programmatically audit then clean it\
+
+- Many forum posts provided assistance on auditing techniques, and helped me wrap my head around how to start and structure the initially overwhelming project\
+
+- https://developers.google.com/edu/python/regular-expressions, provided a more readable understanding of how to use regular expressions for me than the official python documentation}
