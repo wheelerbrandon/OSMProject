@@ -1,6 +1,6 @@
 This repository includes,
 
-- OSMProject.md anThisswering the questions assigned in the project guidelines and documenting my decisions in the data wrangling process (includes map area information)
+- OSMProject.md answers the questions assigned in the project guidelines and documents my decisions in the data wrangling process (includes map area information)
 
 - cleaning.py, code for the final cleaning methods developed from several phases of auditing different sample sizes of the OSM data. Contains the cleaning functions, and mappings (where applicable)
 
